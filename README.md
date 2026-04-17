@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26831329/README.md)
 # Hayfin Inbox Filer — Outlook Add-in
 
 An Outlook sidebar add-in that reads your inbox, groups emails into conversations, gets AI folder suggestions from Claude, and moves them with one click.
